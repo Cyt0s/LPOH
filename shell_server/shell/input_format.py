@@ -1,4 +1,4 @@
-class input_format(object):
+class InputFormat(object):
     def __init__(self,sign='Cy>>'):
         self.__sign = sign
         
